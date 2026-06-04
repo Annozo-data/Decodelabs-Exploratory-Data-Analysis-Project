@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project was completed as part of the DecodeLabs Data Analytics Program (Project 2). The objective was to perform Exploratory Data Analysis (EDA) on an e-commerce dataset and generate actionable business insights through data cleaning, statistical analysis, pivot analysis, and interactive dashboard visualization.
+This project was completed as part of the DecodeLabs Data Analytics Program (Project 2). The objective was to perform Exploratory Data Analysis (EDA) on an e-commerce dataset and generate actionable business insights through data cleaning, statistical analysis, and pivot analysis.
 
 The analysis focused on understanding sales performance, customer purchasing behavior, product performance, payment preferences, and marketing channel effectiveness.
 
@@ -14,7 +14,6 @@ The analysis focused on understanding sales performance, customer purchasing beh
 * Perform basic statistical analysis on key numerical variables.
 * Conduct exploratory data analysis to uncover trends and patterns.
 * Analyze product, customer, and marketing performance.
-* Create an interactive Power BI dashboard to communicate findings effectively.
 
 ---
 
@@ -43,7 +42,6 @@ The dataset contains e-commerce transaction records, including:
 * Microsoft Excel
 * Excel Power Query
 * Pivot Tables
-* Microsoft Power BI
 
 ---
 
@@ -130,69 +128,11 @@ Pivot tables were created in Microsoft Excel to perform additional exploratory a
 
 ---
 
-## Power BI Dashboard
-
-An interactive dashboard was developed in Power BI to visualize key performance indicators and business insights.
-
-### Dashboard KPIs
-
-* Total Revenue
-* Total Orders
-* Average Order Value
-* Total Items Sold
-* Highest Order Value
-* Unique Customers
-
-### Dashboard Visualizations
-
-* Revenue Trend Over Time
-* Orders Trend Over Time
-* Revenue by Product
-* Payment Method Distribution
-* Referral Source Analysis
-* Interactive Filters and Slicers
-
-### Dashboard Preview
-
-https://github.com/Annozo-data/Decodelabs-Exploratory-Data-Analysis-Project/blob/main/Dashboard_PJ2_EDA.jpeg
-
----
-
-## Key Insights
-
-### Sales Performance
-
-* Total revenue generated was **$1.26M**.
-* Average order value was **$1.05K**.
-* Revenue and order volume exhibited similar trends throughout the period, with June recording both the highest revenue generated and the highest number of orders.
-
-### Product Performance
-
-* Chairs were the highest-performing product category throughout the year.
-* Chair sales generated a total revenue of **$195.62K**.
-
-### Customer Payment Behavior
-
-* Online Transfer was the most frequently used payment method.
-
-### Marketing Performance
-
-* Instagram drove the highest volume of sales traffic and contributed significantly to overall business performance.
-
-### Coupon Usage
-
-* 309 transactions had missing coupon information, which were standardized as **"No Coupon"** during data cleaning.
-* A significant proportion of orders were completed without coupon usage.
-
----
-
 ## Project Files
 
 This repository contains:
 
 * Excel Workbook (Raw_Data Sheet, Cleaned_Data Sheet, Descriptive_Analysis Sheet, and Pivot_Analysis Sheet)
-* Power BI Dashboard (.pbix)
-* Dashboard Screenshot
 * Raw Data Screenshot
 * Cleaned Data Screenshot
 
@@ -209,11 +149,9 @@ Through this project, I gained practical experience in:
 * Pivot Table Analysis
 * Exploratory Data Analysis (EDA)
 * Business Insight Generation
-* Data Visualization with Power BI
-* Dashboard Design and Data Storytelling
 
 ---
 
 ## Conclusion
 
-This project demonstrates the application of data cleaning, descriptive statistics, exploratory data analysis, and dashboard visualization techniques to derive meaningful insights from e-commerce sales data. The findings provide valuable information on sales performance, customer behavior, product profitability, and marketing effectiveness, supporting data-driven decision-making.
+This project demonstrates the application of data cleaning, descriptive statistics,and exploratory data analysis to derive meaningful insights from e-commerce sales data. The findings provide valuable information on sales performance, customer behavior, product profitability, and marketing effectiveness, supporting data-driven decision-making.
