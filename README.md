@@ -154,7 +154,7 @@ An interactive dashboard was developed in Power BI to visualize key performance 
 
 ### Dashboard Preview
 
-*Insert dashboard screenshot here.*
+https://github.com/Annozo-data/Decodelabs-Exploratory-Data-Analysis-Project/blob/main/Dashboard_PJ2_EDA.jpeg
 
 ---
 
